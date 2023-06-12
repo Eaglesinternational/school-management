@@ -1,0 +1,169 @@
+html{
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
+nav{
+    
+    background-color: skyblue;
+}
+
+
+.bar {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.bras{
+    margin-left: 25px;
+    color: #000;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.main_img{
+    height: 300px;
+}
+.get{
+    list-style: none;
+}
+.section1{
+    padding-top: 55px;
+}
+.img_text{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    margin: 0 auto;
+    color: white;
+    background-color: midnightblue;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+.image{
+    width: 100%;
+    height: 250px;
+}
+
+.container{
+    /* padding: 70px; */
+}
+.car{
+    border: none;
+}
+.hed{
+    text-align: center;
+    padding-bottom: 40px;
+} 
+.test{
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+
+.add{
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.teacher{
+    width: 90%;
+    height: 200px;
+}
+
+.label_text{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.input_deg{
+    width: 60%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+
+.adm_int{
+    padding-top: 10px;
+}
+
+.input_txt{
+    width: 60%;
+    height: 120px;
+    border-radius: 25px;
+    border: 1px solid blue;
+}
+
+#submit{
+    position: relative;
+    width: 35%;
+    border-radius: 5px;
+
+}
+
+footer{
+    
+   
+    background-color: #000;
+    height: 70px;
+    width: 100%;
+    bottom: 0;
+   
+    
+}
+ 
+.footer_text{
+      text-align: center;
+      color: white;
+      top: 20%;
+      position: relative;
+      bottom: 0;
+} 
+
+.form_deg{
+    padding-top: 200px;
+}
+
+.label_deg{
+    display: inline-block;
+    color: skyblue;
+    width: 100px;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.down{
+    position: absolute;
+    bottom: -200%;
+}
+
+.login_form {
+    background-color: #000;
+    width: 400px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.title_deg {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.error {
+    color: red;
+}

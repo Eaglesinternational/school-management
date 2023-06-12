@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    background-color: skyblue;
+    line-height: 70px;
+    padding-left: 30px;
+    width: 100%;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+.logout{
+    float: right;
+    padding-right: 30px;
+}
+
+ul{
+    background-color: #424a5b;
+    width: 22%;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+    text-align: center;
+}
+
+ul li{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    color: skyblue;
+    text-decoration: none;
+}
+
+.content{
+    padding-top: 10%;
+    padding-left: 25%;
+}
+.ret{
+    width: 340px;
+    height: 340px;
+    background-color: aquamarine;
+}
